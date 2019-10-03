@@ -1,3 +1,4 @@
 [submodule "templates"]
 	path = templates
 	url = https://github.com/RPGLibrarium/templates.git
+	branch = development
