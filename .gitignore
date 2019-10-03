@@ -1,0 +1,29 @@
+## This is the .gitignore file. Files listed here
+## can only be added with git add -f
+## and are ignored otherwise
+
+
+# Output file (don't store binary data unless needed)
+*.pdf
+
+# Compile helper files
+*.acn
+*.acr
+*.alg
+*.aux
+*.ist
+*.log
+*.fls
+*.fdb_latexmk
+
+
+
+# Common editor save files
+*.bak
+
+## vim
+*.swp
+*.swo
+
+##gedit
+*.tex~
