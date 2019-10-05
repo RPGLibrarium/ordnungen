@@ -19,7 +19,7 @@ vo: verleihordnung.tex
 all: satzung go bo vo
 
 clean:
-	rm -f *.acn *.acr *.alg *.aux *.ist *.log *.fls *.fdb_latexmk
+	rm -f *.acn *.acr *.alg *.aux *.ist *.log *.fls *.fdb_latexmk *.out
 
 veryclean: clean
 	rm -f *.pdf
