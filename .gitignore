@@ -5,6 +5,7 @@
 
 # Output file (don't store binary data unless needed)
 *.pdf
+build/
 
 # Compile helper files
 *.acn
